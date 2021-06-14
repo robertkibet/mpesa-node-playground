@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2018",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "esModuleInterop": true,
+    "removeComments": true,
+    "sourceMap": true,
+    "baseUrl": ".",
+    "outDir": "dist",
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
